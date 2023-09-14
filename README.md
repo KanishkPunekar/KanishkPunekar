@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://e0.pxfuel.com/wallpapers/165/284/desktop-wallpaper-astronaut-floating-space.jpg)](https://kanishkpunekar.io)
+[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/planets-galaxies/cache/night-planets-header-8854-1024x300.jpg-nggid041397-ngg0dyn-1280x720x100-00f0w010c010r110f110r010t010.jpg)](https://kanishkpunekar.io)
 
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
 <h3 align="center">Java Developer, Web enthusiast and also an Engineering Student at PICT Pune.</h3>
 
-<img align="right" alt ="Coding" width = "400" src = "https://as1.ftcdn.net/v2/jpg/04/90/31/70/1000_F_490317052_kglLlfRUHqoKGoGqtSPUFbDK6raiNdF7.jpg">
+<img align="right" alt ="Coding" width = "400" src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkpunekar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkpunekar" /> </p>
 
 - 📫 How to reach me **kanishkpunekar54@gmail.com**
